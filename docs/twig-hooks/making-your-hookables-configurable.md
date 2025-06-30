@@ -36,7 +36,7 @@ While using a hookable template, you can access `configuration` keys via `hookab
 ```
 {% endcode %}
 
-{% code title="twig_hooks.yaml" lineNumbers="true" %}
+{% code title="config/packages/twig_hooks.yaml" lineNumbers="true" %}
 ```yaml
 sylius_twig_hooks:
     hooks:
